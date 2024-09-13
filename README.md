@@ -20,11 +20,15 @@ The solutions are categorized into folders based on the levels (e.g., `Easy`, `M
 
     1.	Clone the Repository
 
-    ```git clone https://github.com/username/HackerRank-SQL.git```
+    ```
+    git clone https://github.com/username/HackerRank-SQL.git
+    ```
 
     2.	Navigate to the Directory
 
-    ```cd HackerRank-SQL```
+    ```
+    cd HackerRank-SQL
+    ```
 
     3.	Explore Solutions
 
