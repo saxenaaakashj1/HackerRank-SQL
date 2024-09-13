@@ -15,6 +15,7 @@ The solutions are categorized into folders based on the levels (e.g., `Easy`, `M
 ## 📋 Table of Contents
 
 | Problem Category | Problem Name | Solution Link |
+| ---------------- | ------------ | ------------- |
 
 🚀 Getting Started
 
