@@ -18,21 +18,22 @@ The solutions are categorized into folders based on the levels (e.g., `Easy`, `M
 
 🚀 Getting Started
 
-    1.	Clone the Repository
+1. **Clone the Repository**: Get a copy of this repo on your local machine.
 
-    ```
-    git clone https://github.com/username/HackerRank-SQL.git
-    ```
+   ```
+   git clone https://github.com/username/HackerRank-SQL.git
+   cd HackerRank-SQL
+   ```
 
-    2.	Navigate to the Directory
+2. Pick Your Challenge: Navigate to the folder that interests you.
 
-    ```
-    cd HackerRank-SQL
-    ```
+   ```
+   cd folder_name
+   ```
 
-    3.	Explore Solutions
+3. Explore Solutions
 
-    Open any .sql file to review the query and understand the solution approach, and feel free to tweak it to your liking!
+Open any .sql file to review the query and understand the solution approach, and feel free to tweak it to your liking!
 
 🎯 Why This Repository?
 
