@@ -23,6 +23,7 @@ The solutions are categorized into folders based on the levels (e.g., `Easy`, `M
 | Easy             | [japanese_city_attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem)         | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/Easy/japanese_city_attributes.sql)      |
 | Easy             | [japanese_cities_names](https://www.hackerrank.com/challenges/japanese-cities-name/problem)                  | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/Easy/japanese_cities_names.sql)         |
 | Easy             | [weather-observation-station-1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem) | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/Easy/weather_observation_station_1.sql) |
+| Easy             | [weather-observation-station-2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem) | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/Easy/weather_observation_station_2.sql) |
 
 🚀 Getting Started
 
