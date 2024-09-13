@@ -34,7 +34,7 @@ The solutions are categorized into folders based on the levels (e.g., `Easy`, `M
 | Easy             | [weather_observation_station_10](https://www.hackerrank.com/challenges/weather-observation-station-10/problem) | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/Easy/weather_observation_station_10.sql) |
 | Easy             | [weather_observation_station_11](https://www.hackerrank.com/challenges/weather-observation-station-11/problem) | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/Easy/weather_observation_station_11.sql) |
 | Easy             | [weather_observation_station_12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem) | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/Easy/weather_observation_station_12.sql) |
-| Easy             | [more_than_75_marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem?)                        | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/Easy/more_than_75_marks.sql)             |
+| Easy             | [more_than_75_marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem?)                        | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/Easy/higher_than_75_marks.sql)           |
 
 🚀 Getting Started
 
