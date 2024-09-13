@@ -18,6 +18,7 @@ The solutions are categorized into folders based on the levels (e.g., `Easy`, `M
 | ---------------- | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
 | Easy             | [revising_the_select_query_1](https://www.hackerrank.com/challenges/revising-the-select-query/problem)   | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/revising_the_select_query_1.sql) |
 | Easy             | [revising_the_select_query_2](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/revising_the_select_query_2.sql) |
+| Easy             | [select_all](https://www.hackerrank.com/challenges/select-all-sql/problem)                               | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/select_all.sql)                  |
 
 🚀 Getting Started
 
