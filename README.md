@@ -21,6 +21,7 @@ The solutions are categorized into folders based on the levels (e.g., `Easy`, `M
 | Easy             | [select_all](https://www.hackerrank.com/challenges/select-all-sql/problem)                               | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/select_all.sql)                    |
 | Easy             | [select_by_id](https://www.hackerrank.com/challenges/select-by-id/problem)                               | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/Easy/select_by_id.sql)             |
 | Easy             | [japanese_city_attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem)     | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/Easy/japanese_city_attributes.sql) |
+| Easy             | [japanese_cities_names](https://www.hackerrank.com/challenges/japanese-cities-name/problem)              | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/Easy/japanese_cities_names.sql)    |
 
 🚀 Getting Started
 
