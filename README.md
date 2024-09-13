@@ -1,4 +1,4 @@
-🌟 HackerRank SQL Solutions 🌟
+# 🌟 HackerRank SQL Solutions 🌟
 
 Welcome to the [HackerRank](https://www.hackerrank.com/) SQL Solutions repository! 🚀 Dive into a curated collection of SQL queries crafted to tackle a range of challenges. Whether you’re prepping for an interview or honing your SQL skills, you’ll find valuable solutions and insights here.
 
