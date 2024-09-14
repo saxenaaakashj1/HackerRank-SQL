@@ -39,6 +39,7 @@ The solutions are categorized into folders based on the levels (e.g., `Easy`, `M
 | Easy             | [employee_salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem)                         | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/Easy/employee_salaries.sql)              |
 | Easy             | [count_function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem)       | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/Easy/count_function.sql)                 |
 | Easy             | [sum_function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?)                       | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/Easy/sum_function.sql)                   |
+| Easy             | [averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem)           | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/Easy/averages.sql)                       |
 
 🚀 Getting Started
 
