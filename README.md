@@ -42,6 +42,7 @@ The solutions are categorized into folders based on the levels (e.g., `Easy`, `M
 | Easy             | [averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem)           | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/Easy/averages.sql)                       |
 | Easy             | [average_population](https://www.hackerrank.com/challenges/average-population/problem)                         | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/Easy/average_population.sql)             |
 | Easy             | [japan_population](https://www.hackerrank.com/challenges/japan-population/problem)                             | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/Easy/japan_population.sql)               |
+| Easy             | [population_density_difference](https://www.hackerrank.com/challenges/population-density-difference/problem)   | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/Easy/population_density_difference.sql)  |
 
 🚀 Getting Started
 
