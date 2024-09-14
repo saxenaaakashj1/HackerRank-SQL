@@ -37,6 +37,7 @@ The solutions are categorized into folders based on the levels (e.g., `Easy`, `M
 | Easy             | [higher_than_75_marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem?)                      | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/Easy/higher_than_75_marks.sql)           |
 | Easy             | [employee_names](https://www.hackerrank.com/challenges/name-of-employees/problem)                              | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/Easy/employee_names.sql)                 |
 | Easy             | [employee_salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem)                         | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/Easy/employee_salaries.sql)              |
+| Easy             | [count_function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem)       | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/Easy/count_function.sql)                 |
 
 🚀 Getting Started
 
