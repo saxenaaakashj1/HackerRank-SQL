@@ -43,6 +43,7 @@ The solutions are categorized into folders based on the levels (e.g., `Easy`, `M
 | Easy             | [average_population](https://www.hackerrank.com/challenges/average-population/problem)                         | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/Easy/average_population.sql)             |
 | Easy             | [japan_population](https://www.hackerrank.com/challenges/japan-population/problem)                             | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/Easy/japan_population.sql)               |
 | Easy             | [population_density_difference](https://www.hackerrank.com/challenges/population-density-difference/problem)   | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/Easy/population_density_difference.sql)  |
+| Easy             | [the_blunder](https://www.hackerrank.com/challenges/the-blunder/problem)                                       | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/Easy/the_blunder.sql)                    |
 
 🚀 Getting Started
 
