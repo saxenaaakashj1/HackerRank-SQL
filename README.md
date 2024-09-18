@@ -45,6 +45,7 @@ The solutions are categorized into folders based on the levels (e.g., `Easy`, `M
 | Easy             | [population_density_difference](https://www.hackerrank.com/challenges/population-density-difference/problem)   | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/Easy/population_density_difference.sql)  |
 | Easy             | [the_blunder](https://www.hackerrank.com/challenges/the-blunder/problem)                                       | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/Easy/the_blunder.sql)                    |
 | Easy             | [weather_observation_station_13](https://www.hackerrank.com/challenges/weather-observation-station-13/problem) | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/Easy/weather_observation_station_13.sql) |
+| Easy             | [weather_observation_station_14](https://www.hackerrank.com/challenges/weather-observation-station-14/problem) | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/Easy/weather_observation_station_14.sql) |
 
 🚀 Getting Started
 
