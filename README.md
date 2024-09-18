@@ -52,6 +52,7 @@ The solutions are categorized into folders based on the levels (e.g., `Easy`, `M
 | Easy             | [population_census](https://www.hackerrank.com/challenges/asian-population/problem)                                        | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/Easy/population_census.sql)                    |
 | Easy             | [african_cities](https://www.hackerrank.com/challenges/african-cities/problem)                                             | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/Easy/african_cities.sql)                       |
 | Easy             | [average_population_of_each_continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/Easy/average_population_of_each_continent.sql) |
+| Easy             | [types_of_triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem)                                   | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/Easy/types_of_triangle.sql)                    |
 
 🚀 Getting Started
 
