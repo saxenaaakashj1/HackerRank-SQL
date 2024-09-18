@@ -44,6 +44,7 @@ The solutions are categorized into folders based on the levels (e.g., `Easy`, `M
 | Easy             | [japan_population](https://www.hackerrank.com/challenges/japan-population/problem)                             | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/Easy/japan_population.sql)               |
 | Easy             | [population_density_difference](https://www.hackerrank.com/challenges/population-density-difference/problem)   | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/Easy/population_density_difference.sql)  |
 | Easy             | [the_blunder](https://www.hackerrank.com/challenges/the-blunder/problem)                                       | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/Easy/the_blunder.sql)                    |
+| Easy             | [weather_observation_station_13](https://www.hackerrank.com/challenges/weather-observation-station-13/problem) | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/Easy/weather_observation_station_13.sql) |
 
 🚀 Getting Started
 
