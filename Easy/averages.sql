@@ -1,3 +1,3 @@
 SELECT AVG(population)
-FROM city 
+FROM city
 WHERE district = 'California';

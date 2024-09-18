@@ -1,3 +1,3 @@
 SELECT *
-FROM city 
+FROM city
 WHERE countrycode = 'JPN';

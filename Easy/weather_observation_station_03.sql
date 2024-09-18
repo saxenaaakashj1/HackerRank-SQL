@@ -1,3 +1,3 @@
-SELECT DISTINCT(city )
+SELECT DISTINCT city
 FROM station
-WHERE id%2 = 0;
+WHERE id % 2 = 0;
