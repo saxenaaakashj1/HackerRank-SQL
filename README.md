@@ -49,6 +49,7 @@ The solutions are categorized into folders based on the levels (e.g., `Easy`, `M
 | Easy             | [weather_observation_station_15](https://www.hackerrank.com/challenges/weather-observation-station-15/problem) | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/Easy/weather_observation_station_15.sql) |
 | Easy             | [weather_observation_station_16](https://www.hackerrank.com/challenges/weather-observation-station-16/problem) | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/Easy/weather_observation_station_16.sql) |
 | Easy             | [weather_observation_station_17](https://www.hackerrank.com/challenges/weather-observation-station-17/problem) | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/Easy/weather_observation_station_17.sql) |
+| Easy             | [population_census](https://www.hackerrank.com/challenges/asian-population/problem)                            | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/Easy/population_census.sql)              |
 
 🚀 Getting Started
 
