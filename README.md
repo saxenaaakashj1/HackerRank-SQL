@@ -54,6 +54,7 @@ The solutions are categorized into folders based on the levels (e.g., `Easy`, `M
 | Easy             | [average_population_of_each_continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/Easy/average_population_of_each_continent.sql) |
 | Easy             | [types_of_triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem)                                   | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/Easy/types_of_triangle.sql)                    |
 | Easy             | [top_earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem)                                         | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/Easy/top_earners.sql)                          |
+| Easy             | [draw_the_triangle_1](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem)                                   | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/Easy/draw_the_triangle_1.sql)                  |
 
 🚀 Getting Started
 
