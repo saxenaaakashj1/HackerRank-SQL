@@ -56,6 +56,7 @@ The solutions are categorized into folders based on the levels (e.g., `Easy`, `M
 | Easy             | [top_earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem)                                         | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/Easy/top_earners.sql)                          |
 | Easy             | [draw_the_triangle_1](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem)                                   | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/Easy/draw_the_triangle_1.sql)                  |
 | Easy             | [draw_the_triangle_2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem)                                   | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/Easy/draw_the_triangle_2.sql)                  |
+| Medium           | [the_pads](https://www.hackerrank.com/challenges/the-pads/problem)                                                         | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/Medium/the_pads.sql)                           |
 
 🚀 Getting Started
 
