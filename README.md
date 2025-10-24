@@ -65,6 +65,7 @@ The solutions are categorized into folders based on the levels (e.g., `Easy`, `M
 | ---------------- | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
 | Medium           | [the_pads](https://www.hackerrank.com/challenges/the-pads/problem)                                             | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/Medium/the_pads.sql)                       |
 | Medium           | [weather_observation_station_18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem) | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/Medium/weather_observation_station_18.sql) |
+| Medium           | [weather_observation_station_19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem) | [Solution](https://github.com/saxenaaakashj1/HackerRank-SQL/blob/master/Medium/weather_station_observation_19.sql) |
 
 🚀 Getting Started
 
