@@ -1,2 +1,1 @@
-SELECT MAX(population) - MIN(population)
-FROM city;
+SELECT MAX(population) - MIN(population) FROM city;

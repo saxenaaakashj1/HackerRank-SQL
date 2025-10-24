@@ -1,3 +1,1 @@
-SELECT name
-FROM city
-WHERE countrycode = 'JPN';
+SELECT name FROM city WHERE countrycode = 'JPN';

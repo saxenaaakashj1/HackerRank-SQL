@@ -1,2 +1,1 @@
-SELECT ROUND(AVG(population))
-FROM city;
+SELECT ROUND(AVG(population)) FROM city;
